@@ -1,9 +1,7 @@
 - 👋 Hi, I’m KAYKY DOS SANTOS ROCHA
 - 👀 I’m interested in estudar
 - 🌱 I’m currently learning no alura
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pelo meu gmail :kaykyrocha249@gmail.com 
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ando de bike 
 
 <!---
